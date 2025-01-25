@@ -8,7 +8,7 @@
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=TheMelodias.TheMelodias)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+[![Github](https://img.shields.io/github/followers/TheMelodias?label=Follow&style=social)](https://github.com/TheMelodias)
 
 <div size='20px'> Hi! Me llamo Nil, soy un aprendiz de desarollador de videojuegos y programador amante de la informatica! 🌑
 </div>
