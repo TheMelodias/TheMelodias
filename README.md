@@ -19,7 +19,7 @@
     <!-- Enlace a tu perfil de Discord -->
     <a href="https://discord.com/users/843058974119297064" target="_blank">
         <!-- Widget dinámico de Lanyard -->
-        <img src="https://lanyard.cnrad.dev/api/TU_ID_DE_DISCORD" alt="Estado de Discord">
+        <img src="https://lanyard.cnrad.dev/api/843058974119297064" alt="Estado de Discord">
     </a>
 </p>
 
