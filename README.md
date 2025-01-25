@@ -13,16 +13,6 @@
 <div size='20px'> Hi! Me llamo Nil, soy un aprendiz de desarollador de videojuegos y programador amante de la informatica! 🌑
 </div>
 
-<h2> Estado Actual </h2>
-
-<p align="center">
-    <!-- Enlace a tu perfil de Discord -->
-    <a href="https://discord.com/users/843058974119297064" target="_blank">
-        <!-- Widget dinámico de Lanyard -->
-        <img src="https://lanyard.cnrad.dev/api/843058974119297064" alt="Estado de Discord">
-    </a>
-</p>
-
 <h2> About Me <img src = "https://i.pinimg.com/736x/63/d3/1f/63d31f1aeb269f0a10d915448c02e700.jpg" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://i.pinimg.com/736x/45/de/fa/45defa6488888b792ee969e39aa32666.jpg" />
@@ -50,7 +40,7 @@ Actualmente estoy aprendiendo y asentandome en las bases de la programacion!
 
 <h2> Contactame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://x.com/TheMelodiasth'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://i.pinimg.com/736x/5b/da/c5/5bdac50e89b8ed4324a4a7a8f7eb1f77.jpg"/></a> 
+<a href = 'https://discord.com/users/843058974119297064'> <img width = '32px' align= 'center' src="https://i.pinimg.com/736x/5b/da/c5/5bdac50e89b8ed4324a4a7a8f7eb1f77.jpg"/></a> 
 <a href = 'https://www.github.com/TheMelodias'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
