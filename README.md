@@ -13,9 +13,9 @@
 <div size='20px'> Hi! Me llamo Nil, soy un aprendiz de desarollador de videojuegos y programador amante de la informatica! 🌑
 </div>
 
-<h2> About Me <img src = "https://i.pinimg.com/736x/45/de/fa/45defa6488888b792ee969e39aa32666.jpg" width = 100px></h2>
+<h2> About Me <img src = "https://i.pinimg.com/736x/63/d3/1f/63d31f1aeb269f0a10d915448c02e700.jpg" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://i.pinimg.com/736x/45/de/fa/45defa6488888b792ee969e39aa32666.jpg" />
 
 - 🔭 I’m currently working on  Soy Estudiante
   
