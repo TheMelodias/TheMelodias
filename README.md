@@ -17,15 +17,17 @@
 
 <img width="55%" align="right" alt="Github" src="https://i.pinimg.com/736x/45/de/fa/45defa6488888b792ee969e39aa32666.jpg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 Actualmente estudiante de Sistemas informaticos
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 Sueño ser desarollador de videojuegos
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 En busca de proyectos nuevos
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 Preguntame para C#, C++, Python
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Fun fact: Goku le gana.
+
+Actualmente estoy aprendiendo y asentandome en las bases de la programacion!
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
